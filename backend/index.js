@@ -21,7 +21,7 @@ dbConnect();
 //API creation
 
 app.get('/', (req, res)=> {
-    res.send("Express App is running");
+    // res.send("Express App is running");
 })
 
 
